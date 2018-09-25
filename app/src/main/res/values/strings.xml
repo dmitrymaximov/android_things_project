@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather Station</string>
+    <string name="button_show_display">Show Display</string>
+    <string name="button_stop_display">Stop Display</string>
+    <string name="button_show_led_strip">Show Led Strip</string>
+    <string name="button_stop_let_strip">Stop Let Strip</string>
+    <string name="label_display_status">Display status =</string>
+    <string name="label_led_strip_status">Led Strip status =</string>
+</resources>
